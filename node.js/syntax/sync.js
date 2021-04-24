@@ -16,4 +16,4 @@ fs.readFile('syntax/sample.txt','utf8',function(err,result){
     console.log(result);
 });
 console.log(`C`);
-//result: A B C
+//result: A C B
